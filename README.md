@@ -26,7 +26,7 @@ A modern, responsive, and interactive portfolio website built to showcase projec
 
 ## Live Demo
 
-[View Live Portfolio](https://mian-mustafa.github.io/my-dev-portfolio/index.html)
+[View Live Portfolio] https://mian-mustafa.github.io/my-dev-portfolio/
 
 ## Installation
 
